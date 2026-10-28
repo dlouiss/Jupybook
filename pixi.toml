@@ -19,7 +19,7 @@ ipywidgets = ">=8.1.9,<9"
 
 jupyterlab = ">=4.6.3,<5"
 nodejs = "26.12.1.*"
-mystmd = "1.11.*"
+
 
 typst = ">=0.15.1,<0.16"
 jupytext = ">=1.19.5,<2"
@@ -27,6 +27,7 @@ jupytext = ">=1.19.5,<2"
 ipykernel = "*"
 
 [pypi-dependencies]
+mystmd = "*"
 jupyterlab_myst = "*"
 
 
