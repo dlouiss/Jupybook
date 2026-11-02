@@ -27,6 +27,7 @@ jupytext = ">=1.19.5,<2"
 ipykernel = "*"
 
 [pypi-dependencies]
+bokeh = "*"
 mystmd = "*"
 jupyterlab_myst = "*"
 
